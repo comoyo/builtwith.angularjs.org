@@ -1609,6 +1609,22 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "appear.in",
+      "thumb": "appear.in/thumb.png",
+      "desc": "Set up a video meeting in your browser with anyone - no downloads, no account registration.",
+      "url": "https://appear.in",
+      "submitter": "appear.in",
+      "submissionDate": "2013-09-03",
+      "tags": [
+        "webrtc",
+        "video chat",
+        "video meeting",
+        "video conference",
+        "no registration",
+        "node.js"
+      ]
     }
   ]
 }
